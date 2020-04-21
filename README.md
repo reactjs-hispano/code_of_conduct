@@ -10,7 +10,7 @@
 
 ## La versión más corta de todas
 
-¿Has visto como luego de algunos eventos, conversaciones, todos hablan de "aquella v" que causó un mal rato a uno o más participantes?. Que no sea de ti de quien hablen :)
+¿Has visto como luego de algunos eventos, conversaciones, todos hablan de "aquella" persona que causó un mal rato a uno o más participantes?. Que no sea de ti de quien hablen :)
 
 ## La versión no tan corta
 
