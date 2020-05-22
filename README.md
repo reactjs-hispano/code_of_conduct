@@ -5,6 +5,10 @@
 > Todos los asistentes, participantes, expositores, voluntarios y auspiciadores tanto de los eventos realizados por React-Hispano asi como quienes participen e interactuen en las plataformas de redes sociales, se adhiere a seguir y respetar el siguiente código de conducta.
 >
 > La organización siempre se encargará de velar por el cumplimiento y respeto de lo aquí expuesto.
+> 
+> No a la piratería, si al conocimiento libre! 
+> Si quieres compartir conocimiento, bienvenido sea .
+> Solo asegúrate de que tengas los permisos del creador para compartirlo, o que la licencia lo permita
 >
 > No se harán excepciones de ningún tipo.
 
